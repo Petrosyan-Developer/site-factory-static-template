@@ -1,0 +1,21 @@
+{
+  "name": "site-factory-static-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "4.1.14",
+    "next": "16.4.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "tailwindcss": "4.1.14"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.24",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
