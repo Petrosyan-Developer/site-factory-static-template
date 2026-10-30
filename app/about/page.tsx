@@ -19,6 +19,9 @@ export default function About() {
       <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">
         Маршрут подтверждает полный static export, внутренние ссылки, host-correct SEO и crawlability без JavaScript.
       </p>
+      <p className="mt-4 text-sm font-semibold text-blue-700">
+        Проверочная версия шаблона: revision 2.
+      </p>
       <Link href="/" className="mt-8 inline-flex font-semibold text-blue-700">
         Вернуться на главную
       </Link>
